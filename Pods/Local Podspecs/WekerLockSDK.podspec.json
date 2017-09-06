@@ -1,0 +1,22 @@
+{
+  "name": "WekerLockSDK",
+  "version": "0.1.0",
+  "summary": "A short description of WekerLockSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hduhky/WekerLockSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hduhky": "495751349@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hduhky/WekerLockSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WekerLockSDK/Classes/**/*"
+}

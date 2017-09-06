@@ -1,0 +1,6 @@
+framework module WekerLockSDK {
+  umbrella header "WekerLockSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
